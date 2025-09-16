@@ -1,0 +1,9 @@
+*.mid
+*.venv
+*.json
+*.h5
+*.txt
+*.keras
+*.png
+*.jpg
+*.jpeg
