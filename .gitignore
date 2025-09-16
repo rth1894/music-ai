@@ -1,4 +1,6 @@
 *.mid
+dataset_final/
+
 *.venv
 *.json
 *.h5
